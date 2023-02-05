@@ -28,13 +28,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="9.44"
-     inkscape:cx="57.733051"
-     inkscape:cy="53.125"
+     inkscape:zoom="4.72"
+     inkscape:cx="105.08475"
+     inkscape:cy="56.25"
      inkscape:window-width="1124"
-     inkscape:window-height="1385"
+     inkscape:window-height="669"
      inkscape:window-x="1119"
-     inkscape:window-y="0"
+     inkscape:window-y="716"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -46,20 +46,20 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4247">
+       id="linearGradient7217">
       <stop
-         style="stop-color:#008080;stop-opacity:0.40000001;"
+         style="stop-color:#999999;stop-opacity:0.40000001;"
          offset="0"
-         id="stop4243" />
+         id="stop7213" />
       <stop
-         style="stop-color:#008080;stop-opacity:1;"
+         style="stop-color:#999999;stop-opacity:1;"
          offset="1"
-         id="stop4245" />
+         id="stop7215" />
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4247"
-       id="radialGradient4249"
+       xlink:href="#linearGradient7217"
+       id="radialGradient7219"
        cx="13.229166"
        cy="13.229166"
        fx="13.229166"
@@ -72,14 +72,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="fill:url(#radialGradient4249);stroke:none;stroke-width:0.264583;fill-opacity:1"
+       style="fill:url(#radialGradient7219);stroke:none;stroke-width:0.264583;fill-opacity:1"
        id="path328"
        cx="13.229166"
        cy="13.229166"
        r="10.583333" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.05833332;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
-       d="M 7.9374999,7.9374999 18.520833,13.229167 7.9374999,18.520833"
-       id="path663" />
+       style="fill:none;stroke:#ffffff;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 18.520833,13.229167 H 7.9374999"
+       id="path266" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 13.229167,7.9374999 5.291666,5.2916671 -5.291666,5.291666"
+       id="path331" />
   </g>
 </svg>

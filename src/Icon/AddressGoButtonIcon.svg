@@ -14,6 +14,7 @@
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -28,7 +29,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="9.44"
-     inkscape:cx="47.033898"
+     inkscape:cx="47.245763"
      inkscape:cy="53.177966"
      inkscape:window-width="2256"
      inkscape:window-height="1398"
@@ -42,18 +43,36 @@
        spacingy="2.6458333" />
   </sodipodi:namedview>
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient820">
+      <stop
+         style="stop-color:#008080;stop-opacity:0.40000001;"
+         offset="0"
+         id="stop816" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="1"
+         id="stop818" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient820"
+       id="linearGradient822"
+       x1="4.4979166"
+       y1="13.229166"
+       x2="21.960416"
+       y2="13.229166"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#008080;stroke-width:1.05833;stroke-dasharray:none"
-       d="M 5.2916666,13.229167 H 21.166666"
-       id="path251" />
-    <path
-       style="fill:none;stroke:#008080;stroke-width:1.05833332;stroke-dasharray:none"
-       d="M 15.875,7.9374999 21.166666,13.229167 15.875,18.520833"
-       id="path253" />
+       id="path253"
+       style="fill:none;stroke:url(#linearGradient822);stroke-width:1.58749998;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round"
+       d="M 15.875,7.9374999 21.166666,13.229167 15.875,18.520833 M 5.2916666,13.229167 H 21.166666" />
   </g>
 </svg>
