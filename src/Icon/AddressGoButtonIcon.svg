@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2.36"
-     inkscape:cx="-71.610169"
-     inkscape:cy="50"
+     inkscape:zoom="9.44"
+     inkscape:cx="47.033898"
+     inkscape:cy="53.177966"
      inkscape:window-width="2256"
      inkscape:window-height="1398"
      inkscape:window-x="-11"
@@ -48,11 +48,11 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       style="fill:none;stroke:#008080;stroke-width:1.05833;stroke-dasharray:none"
        d="M 5.2916666,13.229167 H 21.166666"
        id="path251" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       style="fill:none;stroke:#008080;stroke-width:1.05833332;stroke-dasharray:none"
        d="M 15.875,7.9374999 21.166666,13.229167 15.875,18.520833"
        id="path253" />
   </g>
