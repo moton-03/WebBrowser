@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="13.350176"
-     inkscape:cx="65.317491"
-     inkscape:cy="50.41132"
+     inkscape:zoom="9.44"
+     inkscape:cx="92.055085"
+     inkscape:cy="49.04661"
      inkscape:window-width="2256"
      inkscape:window-height="1398"
      inkscape:window-x="-11"
@@ -38,8 +38,8 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid9"
-       spacingx="1.3229167"
-       spacingy="1.3229167" />
+       spacingx="2.6458333"
+       spacingy="2.6458333" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -47,9 +47,24 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="rect2093"
-       style="fill:#008080;stroke-width:0.264583;stroke:none"
-       d="M 6.614583,5.2916665 H 9.2604163 V 10.583333 H 6.614583 Z M 19.843751,13.229167 H 23.8125 m -21.1666667,0 h 3.9687502 m -3.9687502,0 L 13.229167,5.2916666 23.8125,13.229167 M 6.6145835,10.583333 H 19.84375 V 21.166666 H 6.6145835 Z" />
+    <g
+       id="g4128"
+       transform="translate(-6.1911621e-7,-0.9260522)">
+      <path
+         style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.73902;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 5.2916666,14.287501 V 23.8125 H 21.166666 V 14.287501 L 13.229167,7.9374999 Z"
+         id="path1540" />
+      <path
+         style="fill:none;stroke:#008080;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 2.6458333,13.229167 13.229167,5.2916666 23.8125,13.229167"
+         id="path1542" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="rect4071"
+       width="26.458332"
+       height="26.458332"
+       x="0"
+       y="0" />
   </g>
 </svg>
